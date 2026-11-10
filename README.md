@@ -47,7 +47,7 @@ El dashboard muestra el año más reciente de los datos, **2022**, por lo que el
 | --- | --- | --- |
 | Sales by Month | Línea / área | Ver tendencias y estacionalidad mensual |
 | Sales by Week | Columnas | Detectar variaciones de corto plazo |
-| Sales by Product Category | Tabla con mapa de calor | Comparar YTD, QTD y % del total por categoría |
+| Sales by Product Category | Matriz | Comparar YTD, QTD y % del total por categoría |
 | Top 5 Products by YTD Sales | Barras | Identificar los productos que más ingresos generan |
 | Top 5 Products by YTD Reviews | Barras | Identificar los productos con más reseñas |
 
