@@ -6,7 +6,7 @@
 
 Personal portfolio project: a Power BI dashboard to monitor the sales performance of an online store, with year-to-date (YTD) and quarter-to-date (QTD) indicators.
 
-> ⚠️ **Disclaimer:** the data used in this project is **fictitious** and **publicly available**, taken from a YouTube tutorial for educational purposes. It does not represent real sales of any company. This project has no relationship or affiliation with Amazon; its name and logo are used only as visual styling for the dashboard.
+> ⚠️ **Disclaimer:** The data used in this project is **fictitious** and **publicly available**, taken from a YouTube tutorial for educational purposes. It does not represent real sales of any company. This project has no relationship or affiliation with Amazon; its name and logo are used only as visual styling for the dashboard.
 
 ## Files
 
@@ -73,18 +73,8 @@ The commercial performance of 2022 depends on a few categories (footwear, camera
 - Study why Mobile & Accessories generates so many reviews with so few sales, and whether there is an opportunity to turn that attention into purchases.
 - Look into what happens in February to plan actions for the lowest month.
 
-## Notes and limitations
-
-- The `Number of reviews` column appears to be the total reviews of each listing, not the reviews received during the period. For this reason, the YTD Reviews indicator should be read as a reference value and not as new reviews of the year.
-- The original file contains 135 exact duplicate rows and 33 records with a price of $0. They were not removed in order to keep the data as provided in the tutorial.
-- Each record is treated as one sale at the listed price; the dataset does not include quantities or discounts.
-
 ## Tools
 
 Power BI Desktop · DAX · Excel
-
-## Credits
-
-Project requirements and data based on a YouTube tutorial from the Data Tutorials channel: [VIDEO LINK].
 
 Author: [Joshua Chacón](https://github.com/joshuach17)
