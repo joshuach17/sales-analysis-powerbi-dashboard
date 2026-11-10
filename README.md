@@ -73,12 +73,6 @@ El desempeño comercial de 2022 depende de pocas categorías (calzado, cámaras 
 - Estudiar por qué Mobile & Accessories genera tantas reseñas con tan pocas ventas, y si hay oportunidad de convertir esa atención en compras.
 - Revisar qué ocurre en febrero para plantear acciones en el mes más bajo.
 
-## Notas y limitaciones
-
-- La columna `Number of reviews` parece ser el total de reseñas de cada publicación, no las reseñas recibidas en el periodo. Por eso el indicador YTD Reviews se debe leer como un valor de referencia y no como reseñas nuevas del año.
-- El archivo original contiene 135 filas duplicadas exactas y 33 registros con precio de $0. No se eliminaron para conservar los datos tal como vienen en el tutorial.
-- Cada registro se trata como una venta al precio listado; el dataset no incluye cantidades ni descuentos.
-
 ## Herramientas
 
 Power BI Desktop · DAX · Excel
