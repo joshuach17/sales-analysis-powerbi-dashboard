@@ -4,14 +4,14 @@
 
 [![Dashboard](Dashboard-sales-analysis.png)](Dashboard-sales-analysis.png)
 
-Proyecto de portafolio personal: dashboard en Power BI para monitorear el desempeño de ventas de una tienda en línea, con indicadores acumulados del año (YTD) y del trimestre (QTD).
+Proyecto de portafolio personal: Dashboard en Power BI para monitorear el desempeño de ventas de una tienda en línea, con indicadores acumulados del año (YTD) y del trimestre (QTD).
 
-> ⚠️ **Aviso:** los datos utilizados en este proyecto son **ficticios** y de **acceso público**, obtenidos de un tutorial de YouTube con fines educativos. No corresponden a ventas reales de ninguna empresa. Este proyecto no tiene relación ni afiliación con Amazon; su nombre y logo se usan solo como ambientación visual del dashboard.
+> ⚠️ **Aviso:** Los datos utilizados en este proyecto son **ficticios** y de **acceso público**, obtenidos con fines educativos. No corresponden a ventas reales de ninguna empresa. Este proyecto no tiene relación ni afiliación con Amazon; su nombre y logo se usan solo como ambientación visual del dashboard.
 
 ## Archivos
 
-- 📊 [Descargar archivo Power BI (.pbix)](Sales_Analysis_Proyect_JoshuaChacon.pbix)
-- 📁 [Datos de origen (Excel)](data/Amazon_Combined_Data.xlsx)
+- 📊 [Descargar archivo Power BI (.pbix)](Sales_Analysis_Proyect_JoshuaChacon.pbix?raw=true)
+- 📁 [Datos de origen (Excel)](data/Amazon_Combined_Data.xlsx?raw=true)
 
 ## Contexto
 
@@ -82,9 +82,5 @@ El desempeño comercial de 2022 depende de pocas categorías (calzado, cámaras 
 ## Herramientas
 
 Power BI Desktop · DAX · Excel
-
-## Créditos
-
-Requerimientos del proyecto y datos basados en un tutorial de YouTube del canal Data Tutorials: [ENLACE AL VIDEO].
 
 Autor: [Joshua Chacón](https://github.com/joshuach17)
